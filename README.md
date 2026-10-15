@@ -79,9 +79,7 @@ Client ID 通过部署环境变量 `OAUTH_CLIENT_ID` 预置（公开标识，可
 
 自建 OAuth 客户端（用于"使用 Cloudflare 账号登录"）：
 
-👉 **[OAuth 客户端配置图文教程](./oauth-setup-tutorial.html)**（从零创建 → 域名验证 → 设为公开 → 接入面板）
-
-> 教程为单文件 HTML，下载后用浏览器直接打开即可查看。
+👉 **[OAuth 客户端配置图文教程](https://jingli9.github.io/cf-panel/oauth-setup-tutorial.html)**（从零创建 → 域名验证 → 设为公开 → 接入面板）
 
 ## 已知限制
 
